@@ -27,7 +27,7 @@
     "events": "^3.3.0",
     "jszip": "^3.10.1",
     "maplibre-gl": "^4.1.1",
-    "material-symbols": "^0.17.1",
+    "material-symbols": "^0.17.2",
     "primevue": "^3.50.0",
     "vue": "^3.4.21",
     "ws": "^8.16.0"
